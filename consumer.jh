@@ -1,0 +1,4 @@
+entity Notification {
+	startDate Instant
+    endDate Instant
+}
